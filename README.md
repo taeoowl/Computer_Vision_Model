@@ -1,2 +1,6 @@
-# Computer_Vision_Model
+# Computer Vision Model
 CV분야의 주요 모델을 pytorch를 통해 작성
+* 지속적으로 수정 예정
+
+## Vision Transformer : [ViT.py](https://github.com/taeoowl/Computer_Vision_Model/blob/main/ViT.py)
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
