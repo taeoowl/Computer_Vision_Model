@@ -87,8 +87,8 @@ class ClassificationHead(nn.Module):
         
     def forward(self, x):
         cls_embedding = x[:, 0]
-        cls_prod = self.cls_head(cls_embedding)
-        return cls_prod
+        cls_pred = self.cls_head(cls_embedding)
+        return cls_pred
 
 class ViT(nn.Module):
     def __init__(self, img, patch_size, input_dim, heads, num_patches, mlp_dim, layers, num_classes):
