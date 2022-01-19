@@ -7,4 +7,6 @@
 
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
-* R-CNN : [R-CNN.py](https://github.com/taeoowl/Computer_Vision_Model/blob/main/ViT.py) (수정 중)
+* R-CNN : [R-CNN.py](https://github.com/taeoowl/Computer_Vision_Model/blob/main/R-CNN/R-CNN.ipynb) (수정 중)
+
+[Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
